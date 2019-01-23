@@ -1,0 +1,9 @@
+{
+  "name": "chrome-only-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "puppeteer-firefox": "^0.4.2"
+  }
+}
